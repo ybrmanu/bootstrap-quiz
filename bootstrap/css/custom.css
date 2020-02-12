@@ -1,0 +1,25 @@
+.fifa{
+    background-color: purple;
+    display: flex;
+}
+.col-md-6{
+    align-content: center;
+    text-align: center;
+    width:60%;
+    color: white;
+}
+.col-md-3{
+    width: 20%;
+
+}
+input{
+    fill: none;
+    border: none;
+    border-bottom: orange solid 2px;
+    background-color: transparent;
+    padding: 40px;
+    color: white;
+}
+body{
+    background-color: purple;
+}
